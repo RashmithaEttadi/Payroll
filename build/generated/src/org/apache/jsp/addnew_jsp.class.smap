@@ -1,0 +1,14 @@
+SMAP
+addnew_jsp.java
+JSP
+*S JSP
+*F
++ 0 addnew.jsp
+addnew.jsp
++ 1 adminhome.jsp
+adminhome.jsp
+*L
+5:49
+5#1,35:50
+6#0,59:84
+*E
